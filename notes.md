@@ -58,4 +58,10 @@ VOYANT
 
 ANTCONC
 
-* 
+* Used some comparisons similar to 'man' and 'woman' - 'husband' and 'wife,' 'bride' and 'groom,' 'king' and 'queen.'
+
+* I don't know if I downloaded the txt files incorrectly, but all of this is incredibly difficult to read. 
+
+* Patterns are hit and miss. 'King' and 'queen' were difficult to identify. The others were okay.
+
+  * Husbands and grooms are 'strong, angry, stern, loud.' Wives and brides are 'willful, loving, prudent, chaste.'
