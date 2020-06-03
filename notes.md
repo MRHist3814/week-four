@@ -69,3 +69,23 @@ ANTCONC
 TOPIC MODELS
 
 * Ran the TMTool and got the results in my output folder.
+
+* Back to work that was more familiar thanks to earlier weeks, this was easier to get through.
+
+* Everything going smoothly until encountering the same 'no package (tm)' error.
+
+  * Adding the two new lines to the script seems to have resolved the problem.
+  
+* Lacking the topicmodels package, installing it then rerunning also resolved this.
+
+* It took me a while to get used to using the 'Evironment' panel in the upper right to view things as I was working.
+
+* Very relieved when the appropriate visualizations showed up at the end. After many difficulties this week, success!
+
+* I find patterns a lot easier to spot in this type of visualization, rather than the AntConc work.
+
+  * Is there some sort of explosion in romance literature from roughly 1750-1870?
+  
+  * Why the massive spike in talk of 'life'and 'dreams' in 1730? Possibly related to emergence of Irish independence movements?
+  
+  * Less talk of God. Possibly as a result of the Enlightenment, common throughout Europe?
