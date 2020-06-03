@@ -30,4 +30,8 @@ RStudio
 
   * My assumption for fixing this would be to do what we did last time with the Texan correspondence. Make clusters.
 
-* Everything seems to have worked as intended. 
+* Everything seems to have worked as intended.
+
+VOYANT
+
+* Been unable to access voyant-tools.org for two days now.
