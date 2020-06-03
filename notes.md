@@ -36,6 +36,26 @@ VOYANT
 
 * Been unable to access voyant-tools.org for two days now. Will move on and return here later.
 
+* Using https://service.sadilar.org/voyant/ as a workaround got me through the process.
+
+  * Corpus ID: 49f48aa297f23faaecb77e664a9f0650
+  
+* Questions:
+
+  * Is there a trend of negative descriptors applied to colonized peoples, and positive for the colonizers?
+  
+  * Do terms like 'law, order, peace, civility,' occur when discussing unrest or unease in the colonies?
+  
+  * Are there splits in opinion between parliamentarians in different parties? Do quotes from either use different terms?
+  
+  * What progression of language is there as time passes from the 18th into the 19th Century?
+
+* Voyant Example
+
+  * <iframe style='width: 637px; height: 487px;' src='https://service.sadilar.org/voyant/tool/CollocatesGraph/?query=indians&query=natives&mode=corpus&corpus=49f48aa297f23faaecb77e664a9f0650'></iframe>
+  
+* Not sure I was asking the right questions above. I didn't feel like I knew where to go from there.
+
 ANTCONC
 
 * 
